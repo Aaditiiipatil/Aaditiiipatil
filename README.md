@@ -10,7 +10,7 @@
 - 💬 Ask me about **AI/ML, Devops, FULL STACK DEVELOPMENT**
 
 - 📫 How to reach me **asppatil02@gmail.com**
-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
